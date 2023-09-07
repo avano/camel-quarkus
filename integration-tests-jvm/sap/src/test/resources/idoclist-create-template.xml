@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ASCII"?>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<idoc:DocumentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:FLCUSTOMER_CREATEFROMDATA01---="http://sap.fusesource.org/idoc/${repo}/FLCUSTOMER_CREATEFROMDATA01///" xmlns:idoc="http://sap.fusesource.org/idoc">
+    <document creationDate="2015-02-02T08:39:34.782-0500" creationTime="2015-02-02T08:39:34.782-0500" iDocType="FLCUSTOMER_CREATEFROMDATA01" iDocTypeExtension="" messageType="FLCUSTOMER_CREATEFROMDATA" recipientPartnerNumber="QUICKCLNT" recipientPartnerType="LS" senderPartnerNumber="QUICKSTART" senderPartnerType="LS">
+        <rootSegment xsi:type="FLCUSTOMER_CREATEFROMDATA01---:ROOT" document="//@document.0">
+            <segmentChildren parent="//@document.0/@rootSegment">
+                <E1SCU_CRE parent="//@document.0/@rootSegment" document="//@document.0">
+                    <segmentChildren parent="//@document.0/@rootSegment/@segmentChildren/@E1SCU_CRE.0">
+                        <E1BPSCUNEW parent="//@document.0/@rootSegment/@segmentChildren/@E1SCU_CRE.0" document="//@document.0" CUSTNAME="${custname}"
+                                    FORM="Mr." STREET="123 Pebble Road" POSTCODE="98765" CITY="Flagstone" COUNTR="US" PHONE="800-555-1313"
+                                    EMAIL="barney@flagstone.com" CUSTTYPE="P" DISCOUNT="005" LANGU="E"/>
+                    </segmentChildren>
+                </E1SCU_CRE>
+            </segmentChildren>
+        </rootSegment>
+    </document>
+    <document creationDate="2015-02-02T08:39:34.805-0500" creationTime="2015-02-02T08:39:34.805-0500" iDocType="FLCUSTOMER_CREATEFROMDATA01" iDocTypeExtension="" messageType="FLCUSTOMER_CREATEFROMDATA" recipientPartnerNumber="QUICKCLNT" recipientPartnerType="LS" senderPartnerNumber="QUICKSTART" senderPartnerType="LS">
+        <rootSegment xsi:type="FLCUSTOMER_CREATEFROMDATA01---:ROOT" document="//@document.1">
+            <segmentChildren parent="//@document.1/@rootSegment">
+                <E1SCU_CRE parent="//@document.1/@rootSegment" document="//@document.1">
+                    <segmentChildren parent="//@document.1/@rootSegment/@segmentChildren/@E1SCU_CRE.0">
+                        <E1BPSCUNEW parent="//@document.1/@rootSegment/@segmentChildren/@E1SCU_CRE.0" document="//@document.1" CUSTNAME="${custname2}" FORM="Mr." STREET="123 Pebble Road" POSTCODE="98765" CITY="Flagstone" COUNTR="US" PHONE="800-555-1313" EMAIL="barney@flagstone.com" CUSTTYPE="P" DISCOUNT="005" LANGU="E"/>
+                    </segmentChildren>
+                </E1SCU_CRE>
+            </segmentChildren>
+        </rootSegment>
+    </document>
+</idoc:DocumentList>

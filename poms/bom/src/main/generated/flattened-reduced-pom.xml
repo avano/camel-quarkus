@@ -57,6 +57,16 @@
         <version>4.0.0</version>
       </dependency>
       <dependency>
+        <groupId>com.sap.conn.idoc</groupId>
+        <artifactId>sapidoc3</artifactId>
+        <version>3.1.1</version>
+      </dependency>
+      <dependency>
+        <groupId>com.sap.conn.jco</groupId>
+        <artifactId>sapjco3</artifactId>
+        <version>3.1.4</version>
+      </dependency>
+      <dependency>
         <groupId>org.apache.camel</groupId>
         <artifactId>camel-amqp</artifactId>
         <version>4.0.0.redhat-00006</version>

@@ -28,7 +28,7 @@ import org.jboss.logging.Logger;
 
 class SapProcessor {
 
-    private static final Logger LOG = Logger.getLogger(JmsProcessor.class);
+    private static final Logger LOG = Logger.getLogger(SapProcessor.class);
     private static final String FEATURE = "camel-sap";
 
     @BuildStep

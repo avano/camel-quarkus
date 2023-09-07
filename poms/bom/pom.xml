@@ -108,6 +108,16 @@
                 <version>${camel-community.version}</version>
             </dependency>
             <dependency>
+                <groupId>com.sap.conn.idoc</groupId>
+                <artifactId>sapidoc3</artifactId>
+                <version>${sap.sapidoc3.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.sap.conn.jco</groupId>
+                <artifactId>sapjco3</artifactId>
+                <version>${sap.sapjco3.version}</version>
+            </dependency>
+            <dependency>
                 <groupId>org.apache.camel</groupId>
                 <artifactId>camel-amqp</artifactId>
                 <version>${camel.version}</version>
@@ -6876,6 +6886,8 @@
                                 <resolutionEntryPointInclude>com.ibm.mq:com.ibm.mq.jakarta.client</resolutionEntryPointInclude>
                                 <resolutionEntryPointInclude>com.ibm.icu:icu4j</resolutionEntryPointInclude>
                                 <resolutionEntryPointInclude>org.mapstruct:mapstruct-processor</resolutionEntryPointInclude>
+                                <resolutionEntryPointInclude>com.sap.conn.jco:sapjco3</resolutionEntryPointInclude>
+                                <resolutionEntryPointInclude>com.sap.conn.idoc:sapidoc3</resolutionEntryPointInclude>
                             </resolutionEntryPointIncludes>
                             <bannedDependencyResources>
                                 <bannedDependencyResource>

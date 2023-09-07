@@ -148,6 +148,8 @@
         <reactor-core.version>3.4.30</reactor-core.version><!-- @sync com.azure:azure-core:${azure-core.version} dep:io.projectreactor:reactor-core -->
         <reactor-netty.version>${reactor-netty-version}</reactor-netty.version>
         <retrofit.version>2.9.0</retrofit.version><!-- @sync org.influxdb:influxdb-java:${influxdb.version} dep:com.squareup.retrofit2:retrofit -->
+        <sap.sapidoc3.version>3.1.1</sap.sapidoc3.version>
+        <sap.sapjco3.version>3.1.4</sap.sapjco3.version>
         <smallrye.reactive.messaging.camel.version>4.6.0</smallrye.reactive.messaging.camel.version><!-- @sync io.quarkus:quarkus-bom:${quarkus.version} dep:io.smallrye.reactive:smallrye-reactive-messaging-provider -->
         <spring.version>${spring-version}</spring.version>
         <snakeyaml.version>2.0</snakeyaml.version><!-- @sync io.quarkus:quarkus-bom:${quarkus.version} dep:org.yaml:snakeyaml -->

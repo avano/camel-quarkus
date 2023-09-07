@@ -1,0 +1,24 @@
+= SAP testing
+
+== Dependencies
+
+Place the required jar files `sapidoc3.jar` and `sapjco3.jar` together with `libsapjco3.so` into the `lib` folder.
+
+== Properties
+
+Required properties to run the tests against a running SAP instance:
+
+- `sap.gwhost` - gateway host
+- `sap.gwserv` - gateway service name
+- `sap.ashost` - SAP application server host
+- `sap.sysnr` - system number
+- `sap.client` - client id
+- `sap.progId` - program id
+- `sap.user` - SAP username
+- `sap.passwd` - SAP password
+- `sap.destination` - SAP destination
+- `sap.fastDestination` - SAP destination for fast serialization
+- `sap.repository`- SAP repository
+- `sap.queue` - SAP Queue for queued endpoints
+
+For more information about the needed configuration of the SAP instance see the https://github.com/jboss-fuse/sap-quickstarts[quickstarts repository].
