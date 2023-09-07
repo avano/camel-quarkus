@@ -26,7 +26,7 @@ import io.quarkus.deployment.pkg.steps.NativeBuild;
 import org.apache.camel.quarkus.core.JvmOnlyRecorder;
 import org.jboss.logging.Logger;
 
-class JmsProcessor {
+class SapProcessor {
 
     private static final Logger LOG = Logger.getLogger(JmsProcessor.class);
     private static final String FEATURE = "camel-sap";
