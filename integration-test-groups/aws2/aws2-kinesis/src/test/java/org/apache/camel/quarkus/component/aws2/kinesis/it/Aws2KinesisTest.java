@@ -60,7 +60,7 @@ class Aws2KinesisTest extends BaseAWs2TestSupport {
                     final int status = response.statusCode();
                     final String body = status == 200 ? response.body().asString() : null;
                     LOG.info("Got " + status + " " + body);
-                    return response.statusCode() == 200 && msg.equals(body);
+                    return response.statusCode() == 209 && msg.equals(body);
                 });
     }
 
