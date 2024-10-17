@@ -24,6 +24,7 @@ import io.quarkus.test.common.QuarkusTestResource;
 import io.quarkus.test.junit.QuarkusTest;
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
+import org.apache.camel.quarkus.test.DisabledOnArm;
 import org.apache.camel.quarkus.test.support.splunk.SplunkConstants;
 import org.apache.camel.quarkus.test.support.splunk.SplunkTestResource;
 import org.eclipse.microprofile.config.ConfigProvider;
@@ -33,6 +34,7 @@ import org.testcontainers.shaded.org.hamcrest.core.StringContains;
 
 @QuarkusTest
 @QuarkusTestResource(SplunkTestResource.class)
+@DisabledOnArm
 class SplunkHecTest {
 
     @Test

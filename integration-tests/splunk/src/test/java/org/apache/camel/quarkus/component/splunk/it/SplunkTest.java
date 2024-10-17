@@ -16,6 +16,23 @@
  */
 package org.apache.camel.quarkus.component.splunk.it;
 
+import io.quarkus.test.common.QuarkusTestResource;
+import io.quarkus.test.junit.QuarkusTest;
+import io.restassured.RestAssured;
+import io.restassured.http.ContentType;
+import org.apache.camel.component.splunk.ProducerType;
+import org.apache.camel.quarkus.test.DisabledOnArm;
+import org.apache.camel.quarkus.test.support.splunk.SplunkConstants;
+import org.apache.camel.quarkus.test.support.splunk.SplunkTestResource;
+import org.eclipse.microprofile.config.Config;
+import org.eclipse.microprofile.config.ConfigProvider;
+import org.hamcrest.Matchers;
+import static org.hamcrest.Matchers.anyOf;
+import static org.hamcrest.Matchers.is;
+import org.junit.jupiter.api.Test;
+import org.testcontainers.shaded.org.apache.commons.lang3.RandomStringUtils;
+import org.testcontainers.shaded.org.awaitility.Awaitility;
+
 import java.util.Map;
 import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
@@ -25,25 +42,9 @@ import java.util.concurrent.TimeUnit;
 import java.util.function.Consumer;
 import java.util.stream.Collectors;
 
-import io.quarkus.test.common.QuarkusTestResource;
-import io.quarkus.test.junit.QuarkusTest;
-import io.restassured.RestAssured;
-import io.restassured.http.ContentType;
-import org.apache.camel.component.splunk.ProducerType;
-import org.apache.camel.quarkus.test.support.splunk.SplunkConstants;
-import org.apache.camel.quarkus.test.support.splunk.SplunkTestResource;
-import org.eclipse.microprofile.config.Config;
-import org.eclipse.microprofile.config.ConfigProvider;
-import org.hamcrest.Matchers;
-import org.junit.jupiter.api.Test;
-import org.testcontainers.shaded.org.apache.commons.lang3.RandomStringUtils;
-import org.testcontainers.shaded.org.awaitility.Awaitility;
-
-import static org.hamcrest.Matchers.anyOf;
-import static org.hamcrest.Matchers.is;
-
 @QuarkusTest
 @QuarkusTestResource(SplunkTestResource.class)
+@DisabledOnArm
 class SplunkTest {
 
     @Test
