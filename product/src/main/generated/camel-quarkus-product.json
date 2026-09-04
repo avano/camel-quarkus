@@ -6,6 +6,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -14,6 +17,9 @@
       "artifact-id": "camel-quarkus-attachments",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -24,6 +30,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -32,6 +41,9 @@
       "artifact-id": "camel-quarkus-aws-secrets-manager",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -42,6 +54,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -50,6 +65,9 @@
       "artifact-id": "camel-quarkus-aws2-ddb",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -60,6 +78,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -68,6 +89,9 @@
       "artifact-id": "camel-quarkus-aws2-lambda",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -78,6 +102,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -86,6 +113,9 @@
       "artifact-id": "camel-quarkus-aws2-sns",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -96,6 +126,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -104,6 +137,9 @@
       "artifact-id": "camel-quarkus-azure-eventhubs",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -114,6 +150,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -122,6 +161,9 @@
       "artifact-id": "camel-quarkus-azure-servicebus",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -132,6 +174,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -140,6 +185,9 @@
       "artifact-id": "camel-quarkus-azure-storage-datalake",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -150,6 +198,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -158,6 +209,9 @@
       "artifact-id": "camel-quarkus-bean",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -168,6 +222,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -176,6 +233,9 @@
       "artifact-id": "camel-quarkus-beanio",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -186,6 +246,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -195,6 +258,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -203,6 +269,9 @@
       "artifact-id": "camel-quarkus-cassandraql",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -214,6 +283,9 @@
         "redhat-camel-support": [
           "supported-in-jvm"
         ],
+        "ibm-support": [
+          "supported-in-jvm"
+        ],
         "unlisted": "false"
       }
     },
@@ -222,6 +294,9 @@
       "artifact-id": "camel-quarkus-cli-connector",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -232,6 +307,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -240,6 +318,9 @@
       "artifact-id": "camel-quarkus-core",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -250,6 +331,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -258,6 +342,9 @@
       "artifact-id": "camel-quarkus-crypto",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -268,6 +355,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -276,6 +366,9 @@
       "artifact-id": "camel-quarkus-cxf-soap",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -295,6 +388,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -303,6 +399,9 @@
       "artifact-id": "camel-quarkus-dataset",
       "metadata": {
         "redhat-camel-support": [
+          "dev-support"
+        ],
+        "ibm-support": [
           "dev-support"
         ]
       }
@@ -313,6 +412,9 @@
       "metadata": {
         "redhat-camel-support": [
           "dev-support"
+        ],
+        "ibm-support": [
+          "dev-support"
         ]
       }
     },
@@ -321,6 +423,9 @@
       "artifact-id": "camel-quarkus-direct",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -331,6 +436,9 @@
       "metadata": {
         "redhat-camel-support": [
           "tech-preview"
+        ],
+        "ibm-support": [
+          "tech-preview"
         ]
       }
     },
@@ -339,6 +447,9 @@
       "artifact-id": "camel-quarkus-elasticsearch-rest-client",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -349,6 +460,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -357,6 +471,9 @@
       "artifact-id": "camel-quarkus-file",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -367,6 +484,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -375,6 +495,9 @@
       "artifact-id": "camel-quarkus-file-watch",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -386,6 +509,9 @@
         "redhat-camel-support": [
           "supported-in-jvm"
         ],
+        "ibm-support": [
+          "supported-in-jvm"
+        ],
         "unlisted": "false"
       }
     },
@@ -394,6 +520,9 @@
       "artifact-id": "camel-quarkus-ftp",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -404,6 +533,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -412,6 +544,9 @@
       "artifact-id": "camel-quarkus-google-pubsub",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -422,6 +557,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -430,6 +568,9 @@
       "artifact-id": "camel-quarkus-graphql",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -440,6 +581,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -448,6 +592,9 @@
       "artifact-id": "camel-quarkus-grpc",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -458,6 +605,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -466,6 +616,9 @@
       "artifact-id": "camel-quarkus-hashicorp-vault",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -476,6 +629,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -484,6 +640,9 @@
       "artifact-id": "camel-quarkus-http",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -494,6 +653,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -502,6 +664,9 @@
       "artifact-id": "camel-quarkus-jackson",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -512,6 +677,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -520,6 +688,9 @@
       "artifact-id": "camel-quarkus-jackson-protobuf",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -530,6 +701,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -538,6 +712,9 @@
       "artifact-id": "camel-quarkus-jasypt",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -548,6 +725,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -556,6 +736,9 @@
       "artifact-id": "camel-quarkus-jdbc",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -566,6 +749,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -574,6 +760,9 @@
       "artifact-id": "camel-quarkus-jms",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -584,6 +773,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -592,6 +784,9 @@
       "artifact-id": "camel-quarkus-jpa",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -602,6 +797,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -610,6 +808,9 @@
       "artifact-id": "camel-quarkus-jslt",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -620,6 +821,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -628,6 +832,9 @@
       "artifact-id": "camel-quarkus-jt400",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -638,6 +845,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -646,6 +856,9 @@
       "artifact-id": "camel-quarkus-kafka",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -656,6 +869,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -664,6 +880,9 @@
       "artifact-id": "camel-quarkus-kubernetes",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -674,6 +893,9 @@
       "metadata": {
         "redhat-camel-support": [
           "tech-preview"
+        ],
+        "ibm-support": [
+          "tech-preview"
         ]
       }
     },
@@ -682,6 +904,9 @@
       "artifact-id": "camel-quarkus-kudu",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -692,6 +917,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -700,6 +928,9 @@
       "artifact-id": "camel-quarkus-ldap",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -710,6 +941,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -718,6 +952,9 @@
       "artifact-id": "camel-quarkus-lra",
       "metadata": {
         "redhat-camel-support": [
+          "tech-preview"
+        ],
+        "ibm-support": [
           "tech-preview"
         ]
       }
@@ -728,6 +965,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -736,6 +976,9 @@
       "artifact-id": "camel-quarkus-mail-microsoft-oauth",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -746,6 +989,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -754,6 +1000,9 @@
       "artifact-id": "camel-quarkus-mapstruct",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -764,6 +1013,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -772,6 +1024,9 @@
       "artifact-id": "camel-quarkus-micrometer",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -791,6 +1046,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -799,6 +1057,9 @@
       "artifact-id": "camel-quarkus-microprofile-health",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -809,6 +1070,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -817,6 +1081,9 @@
       "artifact-id": "camel-quarkus-mina-sftp",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -827,6 +1094,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -835,6 +1105,9 @@
       "artifact-id": "camel-quarkus-mllp",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -845,6 +1118,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -853,6 +1129,9 @@
       "artifact-id": "camel-quarkus-mongodb",
       "metadata": {
         "redhat-camel-support": [
+          "tech-preview"
+        ],
+        "ibm-support": [
           "tech-preview"
         ]
       }
@@ -863,6 +1142,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -871,6 +1153,9 @@
       "artifact-id": "camel-quarkus-netty",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -881,6 +1166,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -889,6 +1177,9 @@
       "artifact-id": "camel-quarkus-observability-services",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -900,6 +1191,10 @@
         "redhat-camel-support": [
           "supported",
           "deprecated"
+        ],
+        "ibm-support": [
+          "supported",
+          "deprecated"
         ]
       }
     },
@@ -908,6 +1203,9 @@
       "artifact-id": "camel-quarkus-openai",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -918,6 +1216,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -926,6 +1227,9 @@
       "artifact-id": "camel-quarkus-opensearch",
       "metadata": {
         "redhat-camel-support": [
+          "supported-in-jvm"
+        ],
+        "ibm-support": [
           "supported-in-jvm"
         ],
         "unlisted": "false"
@@ -938,6 +1242,10 @@
         "redhat-camel-support": [
           "supported",
           "deprecated"
+        ],
+        "ibm-support": [
+          "supported",
+          "deprecated"
         ]
       }
     },
@@ -946,6 +1254,9 @@
       "artifact-id": "camel-quarkus-opentelemetry2",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -956,6 +1267,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -964,6 +1278,9 @@
       "artifact-id": "camel-quarkus-paho-mqtt5",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -974,6 +1291,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -982,6 +1302,9 @@
       "artifact-id": "camel-quarkus-qdrant",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -992,6 +1315,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1000,6 +1326,9 @@
       "artifact-id": "camel-quarkus-qute",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1010,6 +1339,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1018,6 +1350,9 @@
       "artifact-id": "camel-quarkus-rest",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1028,6 +1363,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1037,6 +1375,9 @@
       "metadata": {
         "redhat-camel-support": [
           "tech-preview"
+        ],
+        "ibm-support": [
+          "tech-preview"
         ]
       }
     },
@@ -1045,6 +1386,9 @@
       "artifact-id": "camel-quarkus-salesforce",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1056,6 +1400,9 @@
         "redhat-camel-support": [
           "supported-in-jvm"
         ],
+        "ibm-support": [
+          "supported-in-jvm"
+        ],
         "unlisted": "false"
       }
     },
@@ -1064,6 +1411,9 @@
       "artifact-id": "camel-quarkus-saxon",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1074,6 +1424,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1082,6 +1435,9 @@
       "artifact-id": "camel-quarkus-seda",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1092,6 +1448,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1100,6 +1459,9 @@
       "artifact-id": "camel-quarkus-slack",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1110,6 +1472,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1118,6 +1483,9 @@
       "artifact-id": "camel-quarkus-smooks",
       "metadata": {
         "redhat-camel-support": [
+          "supported-in-jvm"
+        ],
+        "ibm-support": [
           "supported-in-jvm"
         ],
         "unlisted": "false"
@@ -1130,6 +1498,9 @@
         "redhat-camel-support": [
           "supported-in-jvm"
         ],
+        "ibm-support": [
+          "supported-in-jvm"
+        ],
         "unlisted": "false"
       }
     },
@@ -1138,6 +1509,9 @@
       "artifact-id": "camel-quarkus-soap",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1149,6 +1523,10 @@
         "redhat-camel-support": [
           "supported",
           "deprecated"
+        ],
+        "ibm-support": [
+          "supported",
+          "deprecated"
         ]
       }
     },
@@ -1157,6 +1535,9 @@
       "artifact-id": "camel-quarkus-splunk-hec",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1167,6 +1548,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1175,6 +1559,9 @@
       "artifact-id": "camel-quarkus-sql",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1185,6 +1572,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1193,6 +1583,9 @@
       "artifact-id": "camel-quarkus-telegram",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1203,6 +1596,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1211,6 +1607,9 @@
       "artifact-id": "camel-quarkus-validator",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1221,6 +1620,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1230,6 +1632,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1238,6 +1643,9 @@
       "artifact-id": "camel-quarkus-vertx-websocket",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1257,6 +1665,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1265,6 +1676,9 @@
       "artifact-id": "camel-quarkus-xml-io-dsl",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1275,6 +1689,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1283,6 +1700,9 @@
       "artifact-id": "camel-quarkus-xpath",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1293,6 +1713,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1301,6 +1724,9 @@
       "artifact-id": "camel-quarkus-xslt-saxon",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1311,6 +1737,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1319,6 +1748,9 @@
       "artifact-id": "camel-quarkus-yaml-io",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
@@ -1329,6 +1761,9 @@
       "metadata": {
         "redhat-camel-support": [
           "supported"
+        ],
+        "ibm-support": [
+          "supported"
         ]
       }
     },
@@ -1337,6 +1772,9 @@
       "artifact-id": "camel-quarkus-zipfile",
       "metadata": {
         "redhat-camel-support": [
+          "supported"
+        ],
+        "ibm-support": [
           "supported"
         ]
       }
